@@ -1,0 +1,255 @@
+2020-06-17T05:10:49.588Z [my-bank-api] info: API Started
+2020-06-17T05:20:17.086Z [my-bank-api] info: PUT /grades - {"id":33,"student":"Roberto Achar","subject":"01 - JavaScript","type":"Desafio","value":15,"timestamp":"2020-06-17T05:20:17.085Z"}
+2020-06-17T05:20:24.936Z [my-bank-api] info: PUT /grades - {"id":33,"student":"Tester","subject":"01 - JavaScript","type":"Desafio","value":15,"timestamp":"2020-06-17T05:20:24.934Z"}
+2020-06-17T05:20:53.380Z [my-bank-api] info: PUT /grades - {"id":33,"student":"Tester","type":"Desafio","value":15,"timestamp":"2020-06-17T05:20:53.379Z"}
+2020-06-17T05:21:56.535Z [my-bank-api] info: API Started
+2020-06-17T05:21:58.468Z [my-bank-api] info: PUT /grades - {"id":33,"student":"Tester","subject":"01 - JavaScript","type":"Desafio","value":15,"timestamp":"2020-06-17T05:21:58.466Z"}
+2020-06-17T05:22:13.871Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","subject":"01 - JavaScript","type":"Desafio","value":15,"timestamp":"2020-06-17T05:22:13.870Z"}
+2020-06-17T05:22:30.263Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","subject":"01 - JavaScript","type":"Desafio","value":15,"timestamp":"2020-06-17T05:22:30.262Z"}
+2020-06-17T05:22:51.058Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","type":"Desafio","value":15,"timestamp":"2020-06-17T05:22:51.056Z"}
+2020-06-17T05:23:33.131Z [my-bank-api] info: API Started
+2020-06-17T05:23:48.529Z [my-bank-api] info: API Started
+2020-06-17T05:24:00.049Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","type":"Desafio","value":15,"timestamp":"2020-06-17T05:24:00.047Z"}
+2020-06-17T05:24:14.066Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","type":"Desafio","value":15,"timestamp":"2020-06-17T05:24:14.063Z"}
+2020-06-17T05:24:17.624Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","type":"Desafio","value":15,"timestamp":"2020-06-17T05:24:17.623Z"}
+2020-06-17T05:24:34.083Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","type":"Desafio","value":10,"timestamp":"2020-06-17T05:24:34.082Z"}
+2020-06-17T05:25:01.297Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","type":"Desafio","value":10,"timestamp":"2020-06-17T05:25:01.296Z"}
+2020-06-17T05:25:03.943Z [my-bank-api] info: PUT /grades - {"id":1,"student":"Tester","type":"Desafio","value":10,"timestamp":"2020-06-17T05:25:03.942Z"}
+2020-06-17T05:25:50.265Z [my-bank-api] error: GET /grades - Id não encontrado!
+            Request Body: {}
+2020-06-17T05:26:29.940Z [my-bank-api] info: GET /sumGrades - []
+2020-06-17T05:49:51.870Z [my-bank-api] info: API Started
+2020-06-17T05:50:15.591Z [my-bank-api] info: API Started
+2020-06-17T05:51:24.945Z [my-bank-api] info: API Started
+2020-06-17T05:51:47.354Z [my-bank-api] info: API Started
+2020-06-17T05:51:55.563Z [my-bank-api] info: API Started
+2020-06-17T05:52:07.569Z [my-bank-api] info: API Started
+2020-06-17T05:52:10.422Z [my-bank-api] info: API Started
+2020-06-17T05:53:09.824Z [my-bank-api] info: API Started
+2020-06-17T05:53:25.045Z [my-bank-api] info: API Started
+2020-06-17T05:53:27.612Z [my-bank-api] info: API Started
+2020-06-17T05:53:41.304Z [my-bank-api] info: API Started
+2020-06-17T05:54:17.325Z [my-bank-api] info: API Started
+2020-06-17T05:54:27.441Z [my-bank-api] info: API Started
+2020-06-17T05:54:54.431Z [my-bank-api] info: API Started
+2020-06-17T05:55:19.224Z [my-bank-api] info: API Started
+2020-06-17T05:55:51.569Z [my-bank-api] info: API Started
+2020-06-17T05:56:06.762Z [my-bank-api] info: API Started
+2020-06-17T05:56:26.156Z [my-bank-api] info: API Started
+2020-06-17T05:56:50.496Z [my-bank-api] info: API Started
+2020-06-17T05:57:52.495Z [my-bank-api] info: API Started
+2020-06-17T05:59:27.170Z [my-bank-api] info: API Started
+2020-06-17T06:01:02.963Z [my-bank-api] info: API Started
+2020-06-17T06:01:46.341Z [my-bank-api] info: API Started
+2020-06-17T06:03:06.237Z [my-bank-api] info: API Started
+2020-06-17T06:03:39.481Z [my-bank-api] info: API Started
+2020-06-17T06:04:01.265Z [my-bank-api] info: API Started
+2020-06-17T06:04:02.884Z [my-bank-api] info: API Started
+2020-06-17T06:04:40.347Z [my-bank-api] info: API Started
+2020-06-17T06:05:17.678Z [my-bank-api] info: API Started
+2020-06-17T06:05:23.832Z [my-bank-api] info: API Started
+2020-06-17T06:06:14.547Z [my-bank-api] info: API Started
+2020-06-17T06:06:35.355Z [my-bank-api] info: API Started
+2020-06-17T06:06:48.702Z [my-bank-api] info: API Started
+2020-06-17T06:06:55.374Z [my-bank-api] info: API Started
+2020-06-17T06:07:01.884Z [my-bank-api] info: API Started
+2020-06-17T06:07:09.177Z [my-bank-api] info: API Started
+2020-06-17T06:07:32.340Z [my-bank-api] info: API Started
+2020-06-17T06:07:39.778Z [my-bank-api] info: API Started
+2020-06-17T06:07:46.227Z [my-bank-api] info: API Started
+2020-06-17T06:07:54.122Z [my-bank-api] info: API Started
+2020-06-17T06:08:57.658Z [my-bank-api] info: API Started
+2020-06-17T06:09:22.903Z [my-bank-api] info: API Started
+2020-06-17T06:09:44.365Z [my-bank-api] info: GET /grades - {"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}
+2020-06-17T06:10:13.446Z [my-bank-api] info: API Started
+2020-06-17T06:10:51.163Z [my-bank-api] info: API Started
+2020-06-17T06:12:33.005Z [my-bank-api] info: API Started
+2020-06-17T06:13:56.090Z [my-bank-api] info: API Started
+2020-06-17T06:14:01.802Z [my-bank-api] error: GET /grades - Id não encontrado!
+            Request Body: {"id":231321}
+2020-06-17T06:14:18.516Z [my-bank-api] info: API Started
+2020-06-17T06:14:34.821Z [my-bank-api] info: API Started
+2020-06-17T06:15:13.951Z [my-bank-api] info: API Started
+2020-06-17T06:15:27.450Z [my-bank-api] info: API Started
+2020-06-17T06:15:39.759Z [my-bank-api] info: API Started
+2020-06-17T06:18:17.935Z [my-bank-api] info: API Started
+2020-06-17T06:18:29.897Z [my-bank-api] error: GET /grades - Id não encontrado!
+            Request Body: {"id":231321}
+2020-06-17T06:18:37.451Z [my-bank-api] info: GET /grades - {"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"}
+2020-06-17T06:19:17.781Z [my-bank-api] info: API Started
+2020-06-17T06:19:28.210Z [my-bank-api] info: API Started
+2020-06-17T06:19:34.429Z [my-bank-api] info: API Started
+2020-06-17T06:19:46.366Z [my-bank-api] info: API Started
+2020-06-17T06:20:04.568Z [my-bank-api] info: API Started
+2020-06-17T06:20:20.574Z [my-bank-api] info: API Started
+2020-06-17T06:21:04.626Z [my-bank-api] info: API Started
+2020-06-17T06:21:18.111Z [my-bank-api] info: API Started
+2020-06-17T06:23:31.477Z [my-bank-api] info: API Started
+2020-06-17T06:23:55.051Z [my-bank-api] info: API Started
+2020-06-17T06:31:59.948Z [my-bank-api] info: API Started
+2020-06-17T06:33:06.013Z [my-bank-api] info: API Started
+2020-06-17T06:33:57.191Z [my-bank-api] info: API Started
+2020-06-17T06:34:06.855Z [my-bank-api] info: API Started
+2020-06-17T06:35:17.556Z [my-bank-api] info: API Started
+2020-06-17T06:35:43.311Z [my-bank-api] info: API Started
+2020-06-17T06:36:13.677Z [my-bank-api] info: API Started
+2020-06-17T06:36:16.821Z [my-bank-api] info: API Started
+2020-06-17T06:36:29.716Z [my-bank-api] info: API Started
+2020-06-17T06:36:47.344Z [my-bank-api] info: API Started
+2020-06-17T06:37:08.024Z [my-bank-api] info: API Started
+2020-06-17T06:37:12.256Z [my-bank-api] info: API Started
+2020-06-17T06:37:41.023Z [my-bank-api] info: API Started
+2020-06-17T06:37:43.428Z [my-bank-api] info: API Started
+2020-06-17T06:37:46.475Z [my-bank-api] info: API Started
+2020-06-17T06:38:22.560Z [my-bank-api] info: API Started
+2020-06-17T06:38:51.861Z [my-bank-api] info: POST /grades - {"id":50,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:38:51.858Z"}
+2020-06-17T06:39:31.972Z [my-bank-api] info: API Started
+2020-06-17T06:39:33.181Z [my-bank-api] info: POST /grades - {"id":51,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:39:33.179Z"}
+2020-06-17T06:39:37.784Z [my-bank-api] error: GET /grades - Id não encontrado!
+            Request Body: {"id":2234}
+2020-06-17T06:39:46.465Z [my-bank-api] info: API Started
+2020-06-17T06:39:59.264Z [my-bank-api] info: API Started
+2020-06-17T17:29:57.329Z [my-bank-api] info: API Started
+2020-06-17T17:31:16.106Z [my-bank-api] info: API Started
+2020-06-17T17:31:44.968Z [my-bank-api] info: API Started
+2020-06-17T18:06:38.520Z [my-bank-api] info: API Started
+2020-06-17T18:15:02.662Z [my-bank-api] info: API Started
+2020-06-17T18:16:16.745Z [my-bank-api] info: API Started
+2020-06-17T18:18:08.059Z [my-bank-api] info: API Started
+2020-06-17T18:22:02.598Z [my-bank-api] info: API Started
+2020-06-17T20:15:49.740Z [my-bank-api] info: API Started
+2020-06-17T20:16:07.080Z [my-bank-api] info: API Started
+2020-06-17T20:16:19.292Z [my-bank-api] info: API Started
+2020-06-17T20:20:19.810Z [my-bank-api] info: API Started
+2020-06-17T20:21:00.281Z [my-bank-api] info: API Started
+2020-06-17T20:21:02.479Z [my-bank-api] info: API Started
+2020-06-17T20:28:42.502Z [my-bank-api] info: API Started
+2020-06-17T20:29:38.403Z [my-bank-api] info: API Started
+2020-06-17T20:29:47.736Z [my-bank-api] info: API Started
+2020-06-17T20:29:57.670Z [my-bank-api] info: API Started
+2020-06-17T20:30:20.837Z [my-bank-api] info: GET /grades - {"id":1,"student":"Tester","type":"Desafio","value":10,"timestamp":"2020-06-17T05:25:03.942Z"}
+2020-06-17T20:30:38.821Z [my-bank-api] error: DELETE /grades - Id não encontrado!
+        Request Body: {"id":32}
+2020-06-17T20:31:00.473Z [my-bank-api] info: DELETE /grades - "49"
+2020-06-17T20:32:35.948Z [my-bank-api] info: API Started
+2020-06-17T20:33:13.519Z [my-bank-api] info: API Started
+2020-06-17T20:33:36.804Z [my-bank-api] info: API Started
+2020-06-17T20:34:41.771Z [my-bank-api] info: API Started
+2020-06-17T20:35:42.620Z [my-bank-api] info: API Started
+2020-06-17T20:36:41.937Z [my-bank-api] info: API Started
+2020-06-17T20:36:50.799Z [my-bank-api] info: GET /grades - {"id":1,"student":"Tester","type":"Desafio","value":10,"timestamp":"2020-06-17T05:25:03.942Z"}
+2020-06-17T20:36:57.029Z [my-bank-api] info: GET /grades - {"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"}
+2020-06-17T20:38:30.394Z [my-bank-api] info: API Started
+2020-06-17T20:39:13.384Z [my-bank-api] info: API Started
+2020-06-17T20:41:04.905Z [my-bank-api] info: API Started
+2020-06-17T20:41:32.004Z [my-bank-api] info: API Started
+2020-06-17T20:42:33.586Z [my-bank-api] info: API Started
+2020-06-17T20:42:44.221Z [my-bank-api] info: API Started
+2020-06-17T20:44:52.706Z [my-bank-api] info: API Started
+2020-06-17T20:44:57.972Z [my-bank-api] info: API Started
+2020-06-17T20:45:35.006Z [my-bank-api] info: DELETE /grades - "1"
+2020-06-17T20:46:09.803Z [my-bank-api] info: API Started
+2020-06-17T20:46:58.550Z [my-bank-api] info: API Started
+2020-06-17T20:47:05.756Z [my-bank-api] info: API Started
+2020-06-17T20:47:26.365Z [my-bank-api] info: API Started
+2020-06-17T20:47:30.424Z [my-bank-api] info: API Started
+2020-06-17T20:49:48.848Z [my-bank-api] info: API Started
+2020-06-17T20:50:03.235Z [my-bank-api] info: GET /grades - {"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"}
+2020-06-17T20:50:25.486Z [my-bank-api] info: POST /grades - {"id":52,"student":"Rafael Luis","subject":"02 - Node","type":"Trabalho Prático","value":20,"timestamp":"2020-06-17T20:50:25.485Z"}
+2020-06-17T20:51:07.314Z [my-bank-api] info: API Started
+2020-06-17T20:52:28.521Z [my-bank-api] info: API Started
+2020-06-17T20:52:32.902Z [my-bank-api] info: API Started
+2020-06-17T20:52:50.895Z [my-bank-api] info: API Started
+2020-06-17T20:53:19.602Z [my-bank-api] info: API Started
+2020-06-17T20:54:28.778Z [my-bank-api] info: API Started
+2020-06-17T20:54:43.432Z [my-bank-api] error: PUT /grades - Id não encontrado!
+            Request Body: {"id":2342,"value":123}
+2020-06-18T03:31:42.535Z [my-bank-api] info: API Started
+2020-06-18T03:32:01.504Z [my-bank-api] info: API Started
+2020-06-18T03:33:33.664Z [my-bank-api] info: API Started
+2020-06-18T03:34:16.196Z [my-bank-api] info: API Started
+2020-06-18T03:34:17.453Z [my-bank-api] info: API Started
+2020-06-18T03:36:09.663Z [my-bank-api] info: API Started
+2020-06-18T03:37:01.060Z [my-bank-api] info: API Started
+2020-06-18T03:37:25.747Z [my-bank-api] info: API Started
+2020-06-18T03:45:53.820Z [my-bank-api] info: API Started
+2020-06-18T03:46:10.787Z [my-bank-api] info: API Started
+2020-06-18T03:50:11.886Z [my-bank-api] info: API Started
+2020-06-18T04:08:48.152Z [my-bank-api] info: API Started
+2020-06-18T04:10:19.303Z [my-bank-api] info: API Started
+2020-06-18T04:12:14.987Z [my-bank-api] info: API Started
+2020-06-18T04:12:31.806Z [my-bank-api] info: API Started
+2020-06-18T04:13:22.600Z [my-bank-api] info: API Started
+2020-06-18T04:13:59.576Z [my-bank-api] info: API Started
+2020-06-18T04:14:37.158Z [my-bank-api] info: API Started
+2020-06-18T04:15:55.564Z [my-bank-api] info: API Started
+2020-06-18T04:16:14.323Z [my-bank-api] info: API Started
+2020-06-18T04:16:28.574Z [my-bank-api] info: API Started
+2020-06-18T04:17:17.890Z [my-bank-api] error: GET /grades - Id não encontrado!
+        Request Body: {"student":"Roberto Achar","subject":"03 - React"}
+2020-06-18T04:17:21.891Z [my-bank-api] error: GET /grades - Id não encontrado!
+        Request Body: {"student":"Roberto Achar","subject":"03 - React"}
+2020-06-18T04:20:08.455Z [my-bank-api] info: API Started
+2020-06-18T04:20:14.003Z [my-bank-api] info: GET /sumGrades - [{"id":27,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"},{"id":50,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:38:51.858Z"},{"id":51,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:39:33.179Z"}]
+2020-06-18T04:20:14.007Z [my-bank-api] error: GET /grades - Id não encontrado!
+        Request Body: {"student":"Roberto Achar","subject":"03 - React"}
+2020-06-18T04:20:19.094Z [my-bank-api] info: GET /averageGrades - [{"id":8,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:24.999Z"},{"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"},{"id":44,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Trabalho Prático","value":28,"timestamp":"2020-05-19T18:21:25.260Z"}]
+2020-06-18T04:20:19.096Z [my-bank-api] error: GET /grades - Id não encontrado!
+        Request Body: {"subject":"04 - MongoDB","type":"Trabalho Prático"}
+2020-06-18T04:20:22.176Z [my-bank-api] info: GET /topGrades - [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-18T04:20:22.178Z [my-bank-api] error: GET /grades - Id não encontrado!
+        Request Body: {"subject":"03 - React","type":"Trabalho Prático"}
+2020-06-18T04:20:24.368Z [my-bank-api] info: GET /topGrades - [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-18T04:20:24.370Z [my-bank-api] error: GET /grades - Id não encontrado!
+        Request Body: {"subject":"03 - React","type":"Trabalho Prático"}
+2020-06-18T04:21:02.120Z [my-bank-api] info: API Started
+2020-06-18T04:21:10.741Z [my-bank-api] info: API Started
+2020-06-18T04:27:01.614Z [my-bank-api] info: API Started
+2020-06-18T04:27:04.335Z [my-bank-api] info: GET /sumGrades - [{"id":27,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"},{"id":50,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:38:51.858Z"},{"id":51,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:39:33.179Z"}]
+2020-06-18T04:27:06.287Z [my-bank-api] info: GET /averageGrades - [{"id":8,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:24.999Z"},{"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"},{"id":44,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Trabalho Prático","value":28,"timestamp":"2020-05-19T18:21:25.260Z"}]
+2020-06-18T04:27:08.427Z [my-bank-api] info: GET /topGrades - [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-18T04:27:56.979Z [my-bank-api] info: API Started
+2020-06-18T04:28:02.401Z [my-bank-api] info: API Started
+2020-06-18T04:28:30.434Z [my-bank-api] info: GET /sumGrades - [{"id":27,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"},{"id":50,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:38:51.858Z"},{"id":51,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:39:33.179Z"}]
+2020-06-18T04:34:03.049Z [my-bank-api] info: API Started
+2020-06-18T04:37:17.742Z [my-bank-api] info: API Started
+2020-06-18T04:37:28.691Z [my-bank-api] info: API Started
+2020-06-18T04:37:57.960Z [my-bank-api] info: API Started
+2020-06-18T04:38:13.699Z [my-bank-api] info: API Started
+2020-06-18T04:38:25.371Z [my-bank-api] info: GET /averageGrades - [{"id":3,"student":"Loiane Groner","subject":"03 - React","type":"Fórum","value":14,"timestamp":"2020-05-19T18:21:24.970Z"},{"id":15,"student":"Roberta Arcoverde","subject":"03 - React","type":"Fórum","value":1,"timestamp":"2020-05-19T18:21:25.047Z"},{"id":27,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":39,"student":"Rodrigo Branas","subject":"03 - React","type":"Fórum","value":3,"timestamp":"2020-05-19T18:21:25.225Z"},{"id":50,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:38:51.858Z"},{"id":51,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:39:33.179Z"}]
+2020-06-18T04:38:45.437Z [my-bank-api] info: GET /averageGrades - [{"id":8,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:24.999Z"},{"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"},{"id":44,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Trabalho Prático","value":28,"timestamp":"2020-05-19T18:21:25.260Z"}]
+2020-06-18T04:39:17.330Z [my-bank-api] info: GET /averageGrades - [{"id":8,"student":"Loiane Groner","subject":"04 - MongoDB","type":"Trabalho Prático","value":30,"timestamp":"2020-05-19T18:21:24.999Z"},{"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"},{"id":44,"student":"Rodrigo Branas","subject":"04 - MongoDB","type":"Trabalho Prático","value":28,"timestamp":"2020-05-19T18:21:25.260Z"}]
+2020-06-18T04:39:54.515Z [my-bank-api] info: API Started
+2020-06-18T04:40:03.947Z [my-bank-api] info: API Started
+2020-06-18T04:41:20.622Z [my-bank-api] info: API Started
+2020-06-18T04:41:51.030Z [my-bank-api] info: API Started
+2020-06-18T04:41:53.140Z [my-bank-api] info: API Started
+2020-06-18T04:42:08.907Z [my-bank-api] info: API Started
+2020-06-18T04:43:13.186Z [my-bank-api] info: API Started
+2020-06-18T04:45:50.508Z [my-bank-api] info: API Started
+2020-06-18T04:55:31.413Z [my-bank-api] info: API Started
+2020-06-18T04:57:48.707Z [my-bank-api] info: API Started
+2020-06-18T04:58:15.236Z [my-bank-api] info: API Started
+2020-06-18T04:59:07.550Z [my-bank-api] info: API Started
+2020-06-18T05:00:33.570Z [my-bank-api] info: API Started
+2020-06-18T05:02:03.669Z [my-bank-api] info: API Started
+2020-06-18T05:02:12.501Z [my-bank-api] info: API Started
+2020-06-18T05:02:56.059Z [my-bank-api] info: API Started
+2020-06-18T05:04:14.846Z [my-bank-api] info: API Started
+2020-06-18T05:05:03.923Z [my-bank-api] info: API Started
+2020-06-18T05:06:15.245Z [my-bank-api] info: API Started
+2020-06-18T05:07:14.864Z [my-bank-api] info: API Started
+2020-06-18T05:13:48.344Z [my-bank-api] info: API Started
+2020-06-18T05:14:28.317Z [my-bank-api] info: API Started
+2020-06-18T05:31:26.931Z [my-bank-api] info: API Started
+2020-06-18T05:37:21.645Z [my-bank-api] info: GET /topGrades - [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
+2020-06-18T05:39:28.239Z [my-bank-api] info: GET /sumGrades - [{"id":27,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-05-19T18:21:25.140Z"},{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":35,"student":"Roberto Achar","subject":"03 - React","type":"Desafio","value":23,"timestamp":"2020-05-19T18:21:25.198Z"},{"id":50,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:38:51.858Z"},{"id":51,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-17T06:39:33.179Z"}]
+2020-06-18T05:39:36.971Z [my-bank-api] info: POST /grades - {"id":53,"student":"Roberto Achar","subject":"03 - React","type":"Fórum","value":10,"timestamp":"2020-06-18T05:39:36.969Z"}
+2020-06-18T05:39:47.143Z [my-bank-api] info: DELETE /grades - "51"
+2020-06-18T05:40:45.873Z [my-bank-api] info: API Started
+2020-06-18T05:42:27.283Z [my-bank-api] info: API Started
+2020-06-18T05:42:30.763Z [my-bank-api] info: GET /grades - {"id":20,"student":"Roberta Arcoverde","subject":"04 - MongoDB","type":"Trabalho Prático","value":20,"timestamp":"2020-05-19T18:21:25.077Z"}
+2020-06-18T05:43:42.609Z [my-bank-api] info: GET /grades - {"id":2,"student":"Loiane Groner","subject":"02 - Node","type":"Fórum","value":5,"timestamp":"2020-05-19T18:21:24.964Z"}
+2020-06-18T05:43:51.064Z [my-bank-api] error: GET /grades - Id não encontrado!
+        Request Body: {}
+2020-06-18T05:44:07.768Z [my-bank-api] info: GET /topGrades - [{"id":31,"student":"Roberto Achar","subject":"03 - React","type":"Trabalho Prático","value":27,"timestamp":"2020-05-19T18:21:25.171Z"},{"id":19,"student":"Roberta Arcoverde","subject":"03 - React","type":"Trabalho Prático","value":7,"timestamp":"2020-05-19T18:21:25.072Z"},{"id":43,"student":"Rodrigo Branas","subject":"03 - React","type":"Trabalho Prático","value":6,"timestamp":"2020-05-19T18:21:25.253Z"}]
